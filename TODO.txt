@@ -1,0 +1,28 @@
+❌✅⚠❗
+
+[ ✅ ] - Cargar los 3 datasets
+[ ✅ ] - Desmembrarlos
+[   ] - cuando desanide user.ITEMS quedarme solo con las columnas de ITEMS
+[   ] - Desanidar df_reviews.REVIEWS
+[ ✅ ] - Preprocesar df_games para las funciones
+[   ] - Crear un df para cada funcion
+[   ] - modificar el eda para que haya un markdown entre cada codigo
+[   ]
+idea: crear dos dataset distintos y para machear los datos entre alumno y reviews
+
+
+revisar si no se 
+usa el nombre de los
+usuarios ✅ 
+Si, se usan, user_id
+es el nombre del 
+usuario
+
+comparar si app_name
+y tittle son iguales
+en todos los casos
+
+❗borrar el duplicado
+❗de games.app_name
+❗antes de crear los
+❗df para las funciones
